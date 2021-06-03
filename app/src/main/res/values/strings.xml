@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GitHubSearching</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukkan username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_name">Shaquille Rizki Ramadhan Na</string>
+    <string name="my_username">quwelkun</string>
+    <string name="_0">0</string>
+    <string name="follower_text">Follower</string>
+    <string name="following_text">Following</string>
+    <string name="type">Type</string>
+    <string name="nama">Nama</string>
+    <string name="tab_following">Following</string>
+    <string name="tab_follower">Followers</string>
+
+    <!--Databse-->
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="delete">Hapus</string>
+    <string name="submit">Add To Favorite</string>
+</resources>
